@@ -34,7 +34,7 @@ include('includes/dbconnection.php');
 						<div class="banner_content">
 							<h2>
 								Welcome to<br>
-								Teacher Record Management System
+								TRMS
 							</h2>
 				
 							<div class="search_course_wrap">
