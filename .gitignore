@@ -1,3 +1,1 @@
-./hooks/*
-./logs/*
-./objects/*
+/var/www/html/trms/.git/*
