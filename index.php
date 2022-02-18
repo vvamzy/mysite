@@ -8,7 +8,7 @@ include('includes/dbconnection.php');
 
 <head>
 	
-	<title>TRM$ Tracker Home Page</title>
+	<title>TRMS PROJECT COMPLETED SUCCESSFULLY Tracker Home Page</title>
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="vendors/linericon/style.css">
